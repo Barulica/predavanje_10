@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Barula",
+        "age": 31,
+        "height": 192,
+        "gender": "male"
+    },
+    {
+        "name": "Dane",
+        "age": 39,
+        "height": 176,
+        "gender": "male"
+    },
+    {
+        "name": "Mara",
+        "age": 21,
+        "height": 165,
+        "gender": "female"
+    },
+    {
+        "name": "Boro",
+        "age": 23,
+        "height": 195,
+        "gender": "male"
+    },
+    {
+        "name": "Jovo",
+        "age": 36,
+        "height": 122,
+        "gender": "male"
+    }
+]
