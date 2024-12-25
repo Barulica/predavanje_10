@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Iphone 14",
+    "price": 599,
+    "amount": 5
+  },
+  {
+    "name": "Iphone 5",
+    "price": 99,
+    "amount": 2
+  },
+  {
+    "name": "Iphone 15",
+    "price": 899,
+    "amount": 65
+  },
+  {
+    "name": "Iphone 16",
+    "price": 999,
+    "amount": 67
+  },
+  {
+    "name": "Iphone 12",
+    "price": 399,
+    "amount": 2
+  }
+]
