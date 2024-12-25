@@ -1,2 +1,2 @@
 
-def
+def test (whats_up)
