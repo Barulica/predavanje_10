@@ -11,7 +11,13 @@ with open("data/users.json", 'w') as file:
 
 print(data)
 
-with open("data/products.json", 'r') as file:
-    data = json.load(file)
+from methods import load_file, save_file
+
+data = load_file('data/products.json')
+
 print(data)
+
+data.append({'name': 'Marko', 'age': 25, "height": 160, "gender": "male"})
+
+save_file('data/users.json', data)
 

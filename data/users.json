@@ -1,32 +1,33 @@
 [
     {
-        "name": "Barula",
-        "age": 31,
-        "height": 192,
-        "gender": "male"
+        "name": "Iphone 14",
+        "price": 599,
+        "amount": 5
     },
     {
-        "name": "Dane",
-        "age": 39,
-        "height": 176,
-        "gender": "male"
+        "name": "Iphone 5",
+        "price": 99,
+        "amount": 2
     },
     {
-        "name": "Mara",
-        "age": 21,
-        "height": 165,
-        "gender": "female"
+        "name": "Iphone 15",
+        "price": 899,
+        "amount": 65
     },
     {
-        "name": "Boro",
-        "age": 23,
-        "height": 195,
-        "gender": "male"
+        "name": "Iphone 16",
+        "price": 999,
+        "amount": 67
     },
     {
-        "name": "Jovo",
-        "age": 36,
-        "height": 122,
+        "name": "Iphone 12",
+        "price": 399,
+        "amount": 2
+    },
+    {
+        "name": "Marko",
+        "age": 25,
+        "height": 160,
         "gender": "male"
     }
 ]
