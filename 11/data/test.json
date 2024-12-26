@@ -1,0 +1,9 @@
+{
+    "name": "Jovana",
+    "surname": "Marko",
+    "age": 30,
+    "gender": "female",
+    "budget": 2000,
+    "loan": 33000,
+    "currency": "euro"
+  }

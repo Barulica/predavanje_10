@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Izet",
+    "surname": "Fazlinovic",
+    "age": 88,
+    "gender": "male",
+    "budget": 1200,
+    "currency": "euro"
+  },
+  {
+    "name": "Djordje",
+    "surname": "Cvarkov",
+    "age": 45,
+    "gender": "male",
+    "budget": 7500,
+    "currency": "euro"
+  },
+  {
+    "name": "Tomo",
+    "surname": "Markovic",
+    "age": 25,
+    "gender": "male",
+    "budget": 1500,
+    "currency": "euro"
+  },
+  {
+    "name": "Mane",
+    "surname": "Bojanic",
+    "age": 19,
+    "gender": "male",
+    "budget": 5300,
+    "currency": "euro"
+  },
+  {
+    "name": "Jovana",
+    "surname": "Marko",
+    "age": 30,
+    "gender": "female",
+    "budget": 2000,
+    "currency": "euro"
+  },
+  {
+    "name": "Sveta",
+    "surname": "Gavranovic",
+    "age": 20,
+    "gender": "female",
+    "budget": 3000,
+    "currency": "euro"
+  },
+  {
+    "name": "Jovo",
+    "surname": "Bojic",
+    "age": 29,
+    "gender": "male",
+    "budget": 5000,
+    "currency": "euro"
+  }
+]
