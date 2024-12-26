@@ -1,9 +1,9 @@
 {
-    "name": "Jovana",
-    "surname": "Marko",
+    "name": "Angelina",
+    "surname": "Maravic",
     "age": 30,
     "gender": "female",
     "budget": 2000,
     "loan": 33000,
-    "currency": "euro"
+    "currency": "Rubli"
   }

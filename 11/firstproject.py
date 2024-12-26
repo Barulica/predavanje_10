@@ -15,7 +15,9 @@ if maximum_budget >= limit_budget or maximum_budget <= 0:
     print("Value is not correct")
     sys.exit()
 
-print(f"Welcome back, {user['name']}! Your budget is {maximum_budget}")
+formated_budget = f'{maximum_budget:.2f} {user["currency"]}'
+
+print(f"Welcome back, {user['name']}! Your budget is {formated_budget}")
 
 def clear_logs():
     with open('exercise/logs/expense.txt', 'w') as file:
