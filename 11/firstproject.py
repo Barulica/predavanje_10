@@ -57,7 +57,7 @@ while True:
         clear_logs()
 
     elif choice == '3':
-        print("Goodbye.")
+        print(f"Goodbye {user['name']}!.")
         break
 
     else:
