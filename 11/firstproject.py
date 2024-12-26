@@ -1,6 +1,7 @@
 
 import json
 import sys
+from datetime import datetime
 
 user = None
 limit_budget = 100000
@@ -46,7 +47,10 @@ while True:
 
 
                 with open('exercise/logs/expense.txt', 'a') as file:
-                    message = f"Amount of expense: {expense}, User: {user['name']}, Budget: {budget_after_expense}\n"
+                    message = (f"Amount of expense: {expense}, "f" "
+                               f"User: {user['name']}, "
+                               f"Budget:"f" {budget_after_expense} "
+                               f"Datetime {datetime.now()}\n")
                     file.write(message)
 
             else:

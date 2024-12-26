@@ -1,0 +1,5 @@
+Amount of expense: 5000, User: Angelina,Budget: 30000Datetime2024-12-26 15:57:13.625069
+Amount of expense: 500, User: Angelina,Budget: 34500Datetime2024-12-26 15:57:40.609551
+Amount of expense: 2, User: Angelina,Budget: 34998Datetime2024-12-26 15:58:21.050463
+Amount of expense: 1,  User: Angelina, Budget: 34999 Datetime2024-12-26 15:58:59.547355
+Amount of expense: 1,  User: Angelina, Budget: 34999 Datetime 2024-12-26 15:59:15.163763
